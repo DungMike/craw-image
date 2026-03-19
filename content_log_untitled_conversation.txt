@@ -1,0 +1,12 @@
+Đã xong! Giờ chỉ cần 1 lệnh để chạy cả Frontend + Backend:
+bashnpm run dev:all
+Đã test thành công:
+
+[frontend] Vite → http://localhost:5173 (log màu cyan)
+[backend] Express → http://localhost:3001 (log màu green)
+
+Cả 2 start đồng thời, Ctrl+C dừng cả 2.
+Thay đổi:
+
+package.json — thêm dev:all, dev:backend scripts + concurrently devDependency
+README.md — cập nhật hướng dẫn theo luồng mới

@@ -1,0 +1,193 @@
+============================
+TIÊU ĐỀ VIDEO (chọn 1)
+============================
+
+22% Giới Trẻ KHÔNG Muốn Cưới — Thế Hệ "4 KHÔNG" và Sự Sụp Đổ Thầm Lặng
+Thế Hệ 4 KHÔNG: Không Yêu, Không Cưới, Không Sinh, Không Mua Nhà — Tại Sao?
+Tỷ Suất Sinh THẤP KỶ LỤC 1.91 — Việt Nam Đang Đi Theo Vết Xe Đổ Của Nhật Bản
+Nuôi 1 Đứa Trẻ Tốn 3 TỶ — Tại Sao Giới Trẻ NÓI KHÔNG Với Mọi Thứ
+900 Nghìn Cặp NGỪNG Kết Hôn Trong 3 Năm — Chuyện Gì Đang Xảy Ra?
+
+
+============================
+DESCRIPTION (chuẩn SEO YouTube)
+============================
+
+22 phần trăm người trẻ Việt Nam chọn sống độc thân. Tỷ suất sinh rơi xuống 1.91 — thấp nhất lịch sử. Số cặp kết hôn giảm gần 900 nghìn trong 3 năm. Và giới trẻ đang nói KHÔNG với mọi thứ mà thế hệ trước coi là hiển nhiên.
+
+Trong video này, chúng ta giải mã Thế Hệ "4 Không" — Không yêu, Không cưới, Không sinh con, Không mua nhà — và vì sao đây không phải sự ích kỷ, mà là phản ứng hợp lý trước một hệ thống phi lý.
+
+📊 Nội dung chính:
+0:00 - Mở đầu: Tỷ suất sinh thấp kỷ lục
+0:45 - Bối cảnh: Hiệu ứng Tua nhanh — VN đang lặp lại Nhật, Hàn, Trung
+2:00 - KHÔNG 1: Không mua nhà — Giá nhà gấp 30 lần thu nhập
+5:00 - KHÔNG 2: Không cưới — Chi phí cưới và chi phí cơ hội
+8:30 - KHÔNG 3: Không sinh con — Nuôi 1 đứa trẻ tốn 900 triệu đến 3 tỷ
+13:00 - KHÔNG 4: Không yêu — Nghịch lý Năng lượng
+15:30 - Kết nối 4 Không: Vòng xoáy Từ bỏ
+17:00 - 4 Chiến lược cho Thế hệ 4 Không
+19:00 - Kết luận
+
+📚 Nguồn tham khảo:
+• Tổng cục Thống kê Việt Nam — Dữ liệu dân số 2024-2025
+• Viện Khoa học Vùng Nam Bộ — Khảo sát người trẻ 2024
+• Znews — Chi phí nuôi con tại Việt Nam 2024
+• Tổ chức Lao động Quốc tế (ILO) — Bất bình đẳng giới trong gia đình
+• Korean Statistical Office — Dữ liệu sinh, kết hôn 2024
+• Japan Ministry of Health — Birth statistics 2024
+• China National Bureau of Statistics — Marriage and birth data 2025
+• Vietcetera — Khảo sát Gen Z Việt Nam 2024
+
+🔔 Đăng ký kênh và bật chuông để nhận video mới mỗi tuần.
+
+💬 Comment: Bạn đang ở "cái Không" nào? Chia sẻ câu chuyện của bạn!
+
+#ThếHệ4Không #GenZ #KếtHôn #SinhCon #MuaNhà #PhânTíchXãHội #TỷSuấtSinh #GiàHóaDânSố #ViệtNam #TỉnhThức
+
+
+============================
+PROMPT VIDEO HOOK — VEO 3 (2 prompt)
+============================
+
+--- HOOK VIDEO 1: "Bàn ăn trống" ---
+
+A cinematic slow dolly shot of a traditional Vietnamese family dining table set for a large family dinner. The table is beautifully decorated with steaming dishes, rice bowls, chopsticks arranged for 8 people. Warm golden lighting from overhead pendant lamps.
+
+Camera slowly reveals: only 1 young person sits at the enormous table, eating alone. The other 7 seats are empty. The empty chairs cast long shadows across the table. The young person, a Vietnamese woman in her late 20s, eats slowly, looking at the empty chairs around her with a mix of peace and quiet sadness.
+
+Camera slowly pulls back through a window, revealing the apartment exterior at night. Through other windows in the same building, we see similar scenes: single young people eating alone at tables set for families that don't exist.
+
+Style: cinematic, warm interior golden light contrasting with cold blue exterior night. Shallow depth of field focusing on the lone diner then racking to the empty chairs. Film grain. Melancholic piano soundtrack with subtle ambient city sounds. Aspect ratio 16:9.
+
+--- HOOK VIDEO 2: "Bốn cánh cửa đóng" ---
+
+A dramatic cinematic sequence of a young Vietnamese person walking down a long, dark corridor with four doors on each side. Each door has a glowing sign above it.
+
+The person approaches the first door marked with a glowing house icon. They reach for the handle but the door locks with a loud mechanical click. A digital price counter above the door rapidly climbs showing increasingly unaffordable numbers.
+
+They move to the second door marked with a wedding ring icon. They try the handle but it requires two hands to open and there is no one beside them. The door stays shut.
+
+Third door marked with a baby icon. They touch it gently but the door is too heavy, the weight of the door represents the financial burden, and they cannot push it open alone.
+
+Fourth door marked with a heart icon. They stand before it, exhausted, hands at their sides, no longer even reaching for the handle. They simply lean their back against the wall, slide down to sitting, and close their eyes.
+
+Camera slowly rises to a wide overhead shot revealing the person sitting alone in the corridor, surrounded by four locked doors, a single light above them flickering.
+
+Style: dark moody corridor with each door glowing a different accent color: gold for house, warm white for wedding, soft pink for baby, red for heart. Cinematic lighting with volumetric fog. Dramatic orchestral score building tension with each locked door. Aspect ratio 16:9.
+
+
+============================
+PROMPT ẢNH — GOOGLE IMAGEN (50 prompt)
+============================
+
+Quy tắc chung cho tất cả prompt:
+- Phong cách: cinematic, photorealistic, moody
+- Bảng màu: tối (deep navy, black) + accent vàng/hồng/đỏ
+- Tỉ lệ: 16:9 (1920x1080)
+- Dùng cho: B-roll video phân tích xã hội
+
+--- HOOK (ảnh 1-6) ---
+
+1. Cinematic wide shot of a large empty Vietnamese family dining table set for 8 people with steaming dishes and rice bowls, but only one young woman sits alone eating, the other 7 chairs are empty with long shadows, warm golden pendant lamp light from above contrasting with cold dark apartment, photorealistic, shallow depth of field, melancholic atmosphere, 16:9
+
+2. Dramatic photorealistic image of the number "1.91" displayed enormous and glowing red floating above a dark hospital maternity ward that is nearly empty, only one baby crib occupied out of twenty, cold fluorescent lighting, sense of absence and quiet alarm, cinematic composition, 16:9
+
+3. Photorealistic aerial view of a massive Vietnamese wedding venue banquet hall at night, hundreds of round tables beautifully decorated with flowers and red tablecloths, but completely empty with no guests, chairs neatly arranged awaiting people who never came, single spotlight illuminating the empty stage, haunting beauty of abandonment, deep warm red and gold color palette, 16:9
+
+4. Cinematic close-up of a young Vietnamese man's hand holding a small velvet ring box, closed, hesitating, his other hand checking a calculator app on his phone showing a large number, the ring box and phone screen are the only things illuminated in an otherwise dark frame, shallow depth of field, warm gold light on the ring box contrasting with cold blue phone screen, 16:9
+
+5. Photorealistic image of four large domino tiles standing in a row, each domino has a symbolic icon: a house, a wedding ring, a baby rattle, and a heart, the first domino labeled house is already falling and about to knock down the second one, dramatic side lighting creating long shadows, dark background, high contrast, the chain reaction about to begin, 16:9
+
+6. Cinematic wide shot of a young Vietnamese couple sitting on opposite ends of a very long park bench at twilight, a vast empty space between them, both looking at their phones instead of each other, warm golden sunset light hitting their faces but their expressions are distant and disconnected, urban park setting with blurred city skyline, 16:9
+
+
+7. Dramatic photorealistic world map at night viewed from space, with four countries glowing red in alarm: South Korea, Japan, China, and Vietnam, each with a small downward arrow icon representing declining birth rates, the rest of the world is dark, cinematic satellite perspective, deep navy and black with red accent glowing countries, 16:9
+
+8. Photorealistic image of a traditional Korean apartment complex in Seoul at night, towering identical grey residential towers stretching endlessly, thousands of lit windows but a single baby stroller abandoned at the empty playground below, cold blue urban lighting, sense of scale and anonymity, cinematic wide shot, 16:9
+
+9. Photorealistic image of a Japanese hospital nursery room that is mostly empty, rows of clear baby bassinets but only two occupied with sleeping newborns, a nurse standing alone looking at the empty bassinets, soft warm overhead lighting, clinical white walls, documentary photography style, quiet and melancholic, 16:9
+
+10. Cinematic photorealistic image of a young Chinese woman sitting at a desk in a cramped apartment studying late at night, surrounded by textbooks and career planning documents, a clock on the wall showing 2 AM, her expression shows determination but exhaustion, representing the concept of nei juan intense competition, cold blue desk lamp light, dark room, 16:9
+
+11. Conceptual photorealistic image of a fast-forward button icon glowing golden overlaid on a time-lapse blur of a Vietnamese city transforming rapidly, buildings rising from construction sites in streaks of light, representing the concept of Vietnam fast-forwarding through demographic transitions that took other countries decades, dynamic motion blur with sharp central focus point, 16:9
+
+12. Photorealistic split image comparing four countries side by side: Japan 1995 with a crowded school classroom full of children, then Japan 2025 with the same classroom half empty, then Vietnam 2025 with a full classroom, then Vietnam projected 2040 with a half-empty classroom, each panel has distinct warm-to-cold color transition, documentary comparison style, 16:9
+
+
+13. Dramatic photorealistic image of a massive luxury condominium tower in Ho Chi Minh City at night, gleaming glass and steel, most apartments dark and unoccupied while a young person stands at the base of the building looking up, the enormous price tag "x30" glows in gold projected onto the building facade, scale contrast between tiny human and massive building, 16:9
+
+14. Photorealistic conceptual image of a running track where a young Vietnamese person is sprinting toward a finish line, but the finish line is a miniature house on wheels rolling away from them at greater speed, the gap between the runner and the house grows wider, golden hour dramatic side lighting on the dusty track, motion blur on both runner and house, 16:9
+
+15. Clean infographic-style photorealistic image: a large calendar showing 25 years crossed out day by day, beside it a small modest apartment key with a price tag, a young couple's wedding photo aging from youth to middle age as the years pass, dark background with spotlight on the calendar, representing 25 years of saving for a down payment, 16:9
+
+16. Photorealistic image of stacked Vietnamese dong banknotes building a tower trying to reach a small house floating high in the sky like a balloon, the money tower is tall but the house keeps floating higher, clouds between the money and the house, golden light on the house contrasting with shadow on the money pile below, surreal but photorealistic execution, 16:9
+
+17. Cinematic wide shot of a street in a Vietnamese city showing a row of real estate agency windows, each displaying property listings with enormous red price numbers, a young couple walking past the windows reflected in the glass, their expressions showing resignation, warm interior lighting of the agencies contrasting with the cold street, 16:9
+
+18. Photorealistic image of a tiny rental room approximately 15 square meters in a Vietnamese city, a single bed, a small desk with a laptop, clothes hanging on a wall rack, a young person sitting on the bed looking at their phone, the small room is tidy but cramped, single warm desk lamp as only light source, intimate documentary style showing the reality of urban youth housing, 16:9
+
+19. Dramatic photorealistic image of multiple high-rise construction cranes silhouetted against a sunset sky in a Vietnamese city, building luxury condos, but at street level below the cranes hundreds of young people walk past on motorbikes heading to small rental rooms, dramatic contrast between luxury construction above and modest reality below, golden hour lighting, 16:9
+
+20. Photorealistic image of a real estate investor in a luxury suit examining property documents in a modern office with city views, alongside a contrasting split showing a young teacher in a modest school correcting papers, both looking at the same newspaper headline about rising property prices but with opposite reactions, warm corporate lighting vs cool fluorescent school lighting, 16:9
+
+21. Conceptual photorealistic image of a row of dominoes shaped like small houses, the first domino house falling triggers a chain reaction, each subsequent domino transforms into something different: the second becomes a wedding venue, the third becomes a hospital nursery, the fourth becomes a heart, all falling in sequence, dramatic side lighting on dark surface, 16:9
+
+22. Photorealistic image of two hands reaching toward a set of house keys suspended in mid-air, the keys hang just out of reach, one hand has ink stains suggesting an office worker, the other has calluses suggesting manual labor, both reach earnestly but the keys float higher, warm golden light on the keys, dark background, symbolizing universal inaccessibility, 16:9
+
+
+23. Photorealistic image of a traditional Vietnamese wedding ao dai dress hanging alone on a rack in a dimly lit room, beautiful red and gold fabric catching the light, but no one is wearing it, dust particles visible in the beam of light hitting the dress, melancholic beauty of unused tradition, warm golden accent light on the dress against dark surroundings, 16:9
+
+24. Dramatic photorealistic image of a calculator app displayed on a phone screen showing wedding costs itemized: venue, dress, photos, food, with a total in red that exceeds the annual salary shown below it, the phone rests on a pillow in a dark bedroom, the screen is the only light source illuminating the worried face of a young woman reflected in the glass, 16:9
+
+25. Photorealistic wide shot of a Vietnamese government marriage registration office during business hours, clean and organized with numbered ticket dispensers, but the waiting area is nearly empty with only 2 couples present out of 30 available seats, fluorescent overhead lighting, institutional setting, sense of declining demand, documentary photography style, 16:9
+
+26. Cinematic photorealistic image of a young Vietnamese couple sitting across from each other at a small coffee shop table, between them a stack of papers showing apartment listings, salary statements, and a budgeting spreadsheet, their hands almost touching but not quite, expressions showing love mixed with financial anxiety, warm cafe ambient lighting with rain visible through the window, 16:9
+
+27. Photorealistic close-up of an old Vietnamese family photo album open to a wedding page from the 1990s, the photo shows a simple but joyful wedding celebration, next to the album a modern tablet displaying today's wedding cost estimates with frightening numbers, the warmth of the old photo contrasting with the clinical blue light of the tablet, shallow depth of field, 16:9
+
+28. Photorealistic image of a scale or balance: on one side sits a beautiful wedding ring glowing warmly, on the other side sits a heavy stack of bills and financial documents weighing it down, the financial side is dramatically heavier, the ring side lifted high in the air, dark dramatic background with single overhead spotlight, 16:9
+
+29. Cinematic photorealistic image of a young man standing alone outside a Vietnamese courthouse divorce proceedings office, reading statistics posted on the wall showing rising divorce numbers year by year in a bar chart, his expression is thoughtful and cautious rather than sad, afternoon light through institutional windows, muted color palette, 16:9
+
+30. Photorealistic split portrait: left side shows a young professional Vietnamese woman confidently working at her desk with career achievements visible, right side shows the same woman holding a baby while looking exhausted and overwhelmed, the visual choice between career freedom and family burden, equal lighting on both sides allowing viewer to feel both realities, 16:9
+
+31. Dramatic photorealistic image of the number "900,000,000 VND" written in enormous glowing golden text floating above a single baby crib in a dark hospital maternity room, the massive number dwarfs the tiny crib emphasizing the financial scale of raising one child, cinematic lighting with warm gold numbers and cool blue clinical room, 16:9
+
+32. Photorealistic image of a Vietnamese kindergarten building exterior with a long queue of parents and children stretching around the block waiting for enrollment, some parents check their phones showing banking apps with worried expressions, early morning light casting long shadows, documentary street photography style capturing the kindergarten crisis, 16:9
+
+33. Cinematic photorealistic image of a clock with 24 hours marked, but only 2 hours are highlighted in warm gold labeled "self" while the remaining 22 hours are divided between "work" in blue and "childcare" in pink, representing a working mother's impossible time division, the clock floats against a dark background with a tired woman's face reflected in the glass, 16:9
+
+34. Photorealistic image of a Vietnamese grandmother babysitting two energetic toddlers in a modest apartment while simultaneously trying to take her own medication, representing the burden transferred to the elderly generation, warm natural afternoon light through thin curtains, cluttered but loving home environment, intimate documentary style, 16:9
+
+35. Photorealistic comparison image: left panel shows a South Korean government poster advertising a cash bonus of 70 million won for newborns with bright cheerful colors, right panel shows a nearly empty Korean maternity ward despite the generous incentive, visual irony that money alone cannot solve the birth crisis, clean documentary comparison style, 16:9
+
+36. Cinematic photorealistic image of a young Vietnamese professional woman in business attire standing at a literal fork in the road, one path leads to a bright modern office building, the other path leads to a warm but modest house with a child's bicycle outside, she stands frozen at the intersection, golden sunset light creating dramatic shadows at the crossroads, 16:9
+
+37. Photorealistic close-up of a Vietnamese mother's hands simultaneously holding a laptop showing work emails and a baby bottle, both hands full, her professional watch visible showing late evening hours, suggesting the impossible dual burden of full-time work and full-time parenting, warm home lighting mixed with cold screen light, intimate macro photography style, 16:9
+
+38. Dramatic photorealistic image of a playground in a Vietnamese residential area that is completely empty, brand new colorful equipment with no children playing, surrounded by tall apartment buildings where adults look down from windows, late afternoon golden light hitting the untouched playground equipment, eerie silence implied by the stillness, 16:9
+
+39. Photorealistic wide shot of a Vietnamese hospital maternity floor nurses station, a large whiteboard showing room assignments with many rooms marked vacant, a single nurse looking at the mostly empty board, clinical fluorescent lighting, sense of a system built for volume now operating at low capacity, documentary hospital photography style, 16:9
+
+40. Cinematic photorealistic image of a young Vietnamese person lying in bed at night scrolling through a dating app on their phone, the screen shows dozens of profile cards stacked endlessly, the blue screen light illuminates a tired and indifferent expression, empty space in the bed beside them, intimate close-up with dark surroundings, 16:9
+
+41. Photorealistic conceptual image of two people sitting in separate transparent bubbles or glass spheres in a crowded Vietnamese coffee shop, everyone around them is also in individual bubbles, they can see each other but cannot touch, the bubbles represent emotional walls, warm cafe lighting filtering through the transparent barriers creating a dreamlike atmosphere, 16:9
+
+42. Dramatic photorealistic image of a phone battery icon at 3 percent critically low, but instead of a phone it is shaped like a human heart, the heart-battery is almost depleted with red warning color, dark background with the dying glow of the last 3 percent, metaphor for emotional exhaustion leaving no energy for love, clean minimalist design, 16:9
+
+43. Photorealistic image of a young Vietnamese man sitting alone in a modern but sterile apartment, everything is perfectly organized and clean, expensive headphones around his neck, gaming setup visible, food delivery boxes on the counter, comfortable but hollow, warm monitor glow as the only light in an otherwise dark minimalist space, 16:9
+
+44. Cinematic photorealistic image of social media notification bubbles floating around a young persons head like orbiting satellites, hundreds of tiny hearts and message icons, but the person in the center looks through them all with vacant eyes unable to connect with any of them, dark background with the colorful notifications as the only light source creating a halo effect, 16:9
+
+45. Photorealistic close-up of two coffee cups on a small cafe table, one cup is half-finished and warm with steam rising, the other cup is untouched and cold, the empty chair across from the warm cup tells the story, shallow depth of field with warm afternoon light from a nearby window, the untouched cup suggests a date that was never kept, 16:9
+
+
+46. Photorealistic image of four locked doors from the corridor concept now shown from above as a bird's eye view, the young person sitting in the center of the four doors has drawn a fifth path on the floor with chalk, a new direction that does not go through any of the four doors but creates their own exit, warm golden chalk line glowing against the dark floor, symbol of creating your own path, 16:9
+
+47. Photorealistic image of a group of diverse young Vietnamese people sitting in a circle on a rooftop at sunset, sharing food and conversation, not a formal meeting but a genuine community gathering, warm golden hour lighting on their faces, city skyline behind them, expressions of connection and shared understanding, sense of belonging without the traditional family structure, 16:9
+
+48. Cinematic photorealistic image of a young person tearing up an old checklist that reads "house, marriage, baby, career" and writing a new one with items like "skills, freedom, purpose, connection" in glowing golden ink, dramatic close-up of the hands and the two lists, old list in cold crumpled paper, new list on a clean bright surface, warm directional lighting, 16:9
+
+49. Photorealistic wide shot of a sunrise breaking over a Vietnamese coastal city, golden light flooding through the streets, a young person standing on a hilltop overlooking the city with arms relaxed at their sides, posture is calm and grounded rather than triumphant, suggesting quiet acceptance and readiness rather than defeat, hopeful color palette transitioning from deep blue night to warm golden dawn, 16:9
+
+50. Cinematic photorealistic image of the same dining table from prompt 1 but now reimagined: the single young woman is still eating alone but she has rearranged the table, removed the extra chairs, decorated her single place setting beautifully with a candle and a flower, she eats with contentment and self-possession rather than sadness, warm golden intimate lighting, the table is smaller but feels intentional and complete, 16:9

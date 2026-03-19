@@ -1,0 +1,179 @@
+============================
+TIÊU ĐỀ VIDEO (chọn 1)
+============================
+
+60% Giới Trẻ ĐANG NỢ — Thế Hệ Trả Góp và Cái Bẫy Không Ai Nói
+Thế Hệ TRẢ GÓP: Nợ Trước Khi Kiếm Được — Tại Sao Bạn Luôn Hết Tiền?
+Trả Góp 0% LÃI SUẤT? — Sự Thật ĐÁNG SỢ Mà Không Ai Muốn Bạn Biết
+App Vay Tiền Lãi 365%/Năm — Thế Hệ Bị THIẾT KẾ Để Mắc Nợ
+3 Triệu Thành 47 Triệu Trong 6 Tháng — Bẫy Nợ NUỐT CHỬNG Giới Trẻ
+
+
+============================
+DESCRIPTION (chuẩn SEO YouTube)
+============================
+
+60 phần trăm người trẻ Việt Nam có ít nhất một khoản nợ tiêu dùng. Thị trường "mua trước trả sau" đạt 2.8 tỷ đô la. App tín dụng đen tính lãi 365 phần trăm mỗi năm. Và 32 phần trăm người dùng BNPL đã trễ hạn thanh toán.
+
+Trong video này, chúng ta giải mã Thế Hệ Trả Góp — vì sao giới trẻ không hoang phí, mà bị đặt vào một hệ thống được THIẾT KẾ để mắc nợ dễ hơn tiết kiệm.
+
+📊 Nội dung chính:
+0:00 - Mở đầu: 60% người trẻ đang nợ
+0:45 - Bối cảnh: Nền Kinh Tế Mượn Trước
+2:00 - Cơn bão 1: Cái bẫy Trả góp 0% — phí ẩn và tâm lý Pain of Paying
+5:30 - Cơn bão 2: Tín dụng đen 4.0 — app vay lãi 365%/năm
+9:00 - Cơn bão 3: Vòng xoáy Nợ chồng nợ
+12:00 - Cơn bão 4: Tâm lý học Tiêu trước Trả sau
+14:30 - Kết nối 4 cơn bão
+16:00 - 4 Chiến lược thoát nợ
+18:30 - Kết luận
+
+📚 Nguồn tham khảo:
+• Ngân hàng Nhà nước Việt Nam — Dữ liệu tín dụng 2024-2025
+• VNPAY — Báo cáo nợ tiêu dùng giới trẻ 2025
+• Trace Data Research — Thị trường BNPL Việt Nam 2025
+• PS Market Research — Dự báo BNPL Việt Nam đến 2032
+• Newsweek — Nợ Gen Z toàn cầu 2025
+• Forbes — BNPL market global statistics 2024
+• Thời báo Tài chính Việt Nam — Nợ xấu tín dụng tiêu dùng
+• Cổng Cảnh báo An toàn Thông tin Quốc gia — Tín dụng đen
+
+🔔 Đăng ký kênh và bật chuông để nhận video mới mỗi tuần.
+
+💬 Comment: Bạn đang trả góp bao nhiêu khoản? Cộng tổng và chia sẻ!
+
+#ThếHệTrảGóp #NợTiêuDùng #TínDụngĐen #MuaTrướcTrảSau #BNPL #GenZ #TàiChínhCáNhân #PhânTíchXãHội #ViệtNam #TỉnhThức
+
+
+============================
+PROMPT VIDEO HOOK — VEO 3 (2 prompt)
+============================
+
+--- HOOK VIDEO 1: "Dây chuyền trả góp" ---
+
+A cinematic tracking shot following a young Vietnamese office worker through their entire day. Morning: they wake up, check phone, notification shows "Kỳ thanh toán laptop: 1.500.000đ". They get dressed, grab their motorbike keys with a tag dangling that reads "Trả góp tháng 8/12". They ride through Ho Chi Minh City streets passing billboards advertising "Trả góp 0%". At work, they open their phone banking app and we see multiple recurring payments listed. Lunch, they eat simply at a street vendor.
+
+Evening: they arrive home to their small rental room, sit on the bed, pull out their phone. The screen fills with notification badges from payment apps, all showing red overdue alerts. Camera slowly pulls back to reveal the room is small and bare, the only expensive items are the things bought on installment: a new phone, a laptop, nice headphones, all with small price tag labels still dangling from them showing remaining balance.
+
+Final shot: the person sits on the bed surrounded by expensive objects they technically don't own yet, the room lit only by the phone screen showing overdue payments. A subtle visual of chains made of receipt paper connecting each item back to the person.
+
+Style: naturalistic day-in-the-life documentary feel transitioning to moody cinematic at evening. Warm morning light cooling to cold blue evening. Handheld camera for daytime, steady controlled shots for nighttime. Ambient city sounds fading to silence. Aspect ratio 16:9.
+
+--- HOOK VIDEO 2: "Con số tăng dần" ---
+
+A dramatic cinematic sequence of a digital debt counter displayed on a massive screen in a dark void. The counter starts at 3,000,000 (three million).
+
+A clock nearby ticks to show one day passing. The counter clicks to 3,030,000. Another day. 3,060,000. The clicks accelerate as days fly by. One week: 3,210,000. One month: 3,900,000. The numbers grow faster and faster, the ticking becomes frantic.
+
+Cut to a young Vietnamese person watching the counter from below, their face illuminated by the red glow of the ever-growing number. They try to push the number down with their hands but it keeps climbing. They throw money at the screen but the money burns before it reaches the counter.
+
+Three months: 6,000,000. Six months: 15,000,000. The number is now enormous, filling the entire screen, glowing angry red. The person is tiny below it, sitting on the ground, head in their hands.
+
+Final shot: the counter continues climbing even after the person has given up. It is autonomous, self-feeding, unstoppable. The person is now in shadow, the only light comes from the merciless red counter above.
+
+Style: pure black void environment with the counter as the only light source. Red digital numbers casting harsh light on the person below. Progressively more dramatic with each time skip. Deep bass sound design with each number tick. Aspect ratio 16:9.
+
+
+============================
+PROMPT ẢNH — GOOGLE IMAGEN (50 prompt)
+============================
+
+1. Cinematic wide shot of a young Vietnamese person surrounded by floating holographic price tags and installment payment receipts in a dark void, each tag connected to them by thin glowing red strings like puppet strings, the person stands in the center looking overwhelmed, warm skin tone lighting contrasted with cold blue receipt glow, photorealistic, 16:9
+
+2. Dramatic photorealistic close-up of a smartphone screen showing a "Buy Now Pay Later" button glowing green invitingly, a young person's thumb hovering over the button, their reflection visible in the screen showing a worried expression, shallow depth of field with the button in sharp focus, dark background, 16:9
+
+3. Photorealistic image of the number "0%" displayed enormously in bright green neon, but behind the neon sign in the shadows, smaller numbers are visible: processing fees, insurance fees, late payment penalties, the hidden costs lurking behind the attractive headline number, dark moody lighting, 16:9
+
+4. Cinematic photorealistic image of a Vietnamese electronics store at night with bright red banners reading installment promotions, a long queue of young customers inside, shot from outside through the glass window showing the customers reflected alongside the price tags, warm store interior vs cold street exterior, documentary photography style, 16:9
+
+5. Photorealistic conceptual image of a human brain in cross-section, one half is colored warm gold labeled "Niềm vui mua ngay" showing pleasure centers activated, the other half is dark and dormant labeled "Nỗi đau trả sau" showing pain centers suppressed, representing the Pain of Paying psychological effect, clean medical illustration meets cinematic style, 16:9
+
+6. Dramatic photorealistic image of a young Vietnamese person's wallet open on a table, completely empty except for 5 different installment payment cards fanned out, each card from a different company with different amounts owed, the empty cash section contrasting with the full card section, warm overhead lamp lighting, intimate close-up, 16:9
+
+7. Photorealistic image of a shopping cart in a Vietnamese e-commerce app on a phone screen showing 5 items totaling 25 million VND, but a small line at the bottom reads "Chỉ 2.1 triệu/tháng", a hand is about to tap "Mua ngay", the screen glows with attractive product images while the monthly cost is barely visible in small text, 16:9
+
+8. Cinematic photorealistic image of domino tiles made of credit cards falling in sequence, each card has a progressively higher debt amount printed on it, the first card shows 5 million, the last visible card shows 50 million, dramatic side lighting creating long shadows as the dominoes fall, dark background, 16:9
+
+9. Photorealistic wide shot of a Vietnamese university campus with students walking, some checking their phones showing loan app notifications, a digital billboard in the background advertising "Vay siêu tốc, nhận tiền trong 5 phút", the contrast between youthful campus life and predatory advertising, warm daylight, documentary style, 16:9
+
+10. Dramatic photorealistic image of a phone screen cracked and glitching showing a predatory loan app interface with aggressive red text demanding overdue payment, the phone lies on a pillow in a dark bedroom, the harsh red screen light illuminating a young person's stressed face staring at the ceiling, intimate and unsettling, 16:9
+
+11. Photorealistic image of a Vietnamese young person's hands holding a piece of paper showing two columns: left column labeled "Thu nhập" with one number 18 triệu, right column labeled "Trả góp" listing 6 different monthly payments that total 12 triệu, leaving only 6 triệu for everything else, warm desk lamp lighting, overhead shot of the paper on a wooden desk, 16:9
+
+12. Cinematic photorealistic image of an hourglass where the sand is made of golden coins falling from the top, but the bottom fills with red debt numbers instead of sand, time converting money directly into debt, elegant glass hourglass against a dark background with dramatic spotlight, 16:9
+
+13. Photorealistic image of a young Vietnamese man at a street food stall eating a simple bowl of noodles for lunch, in his back pocket visible is the latest model smartphone, the contrast between frugal eating and expensive gadgets bought on installment, warm midday light, documentary street photography, 16:9
+
+14. Dramatic photorealistic image of a calculator showing the final total of all hidden fees and actual costs of a "0% interest" installment plan, the number is significantly higher than the product's original price, red numbers on the calculator screen, dramatic close-up with dark background, 16:9
+
+15. Photorealistic image of a maze viewed from above shaped like a credit card, a tiny person standing at the entrance, inside the maze are dead ends labeled with different debt traps: "phí xử lý", "bảo hiểm bắt buộc", "lãi phạt trễ hạn", dark atmospheric maze with warm golden light at the distant and barely visible exit, cinematic bird's eye view, 16:9
+
+16. Cinematic photorealistic image of two phone screens side by side: left screen shows a friendly app interface saying "Vay 5 triệu, nhận ngay" with cheerful green colors, right screen shows the same app 6 months later demanding "Trả 30 triệu" in angry red, the transformation from friendly to threatening, equal lighting on both screens, 16:9
+
+17. Photorealistic image of a young Vietnamese woman sitting in a small rental room at night surrounded by brand new items still in packaging: a laptop, phone, headphones, shoes, each item has a small red tag showing remaining installment balance, she sits in the middle holding her head in her hands, the items glow with warm product lighting while she is in shadow, 16:9
+
+18. Dramatic photorealistic image of a chain made of receipt paper and payment slips wrapping around a young person's wrists like handcuffs, each link of the chain shows a different payment amount and due date, the person tries to pull their hands apart but the paper chain holds firm, dramatic side lighting against dark background, 16:9
+
+19. Photorealistic image of multiple notification bubbles floating above a phone showing overdue payment alerts from 5 different apps, each bubble is red and urgent, the phone sits on a nightstand next to an alarm clock showing 3 AM, suggesting the person cannot sleep due to debt anxiety, cold blue moonlight through a window, 16:9
+
+20. Cinematic photorealistic image of a Vietnamese young person at a crossroads intersection at night, one road has a green neon sign saying "Trả góp ngay" leading to bright exciting stores, the other road is dark and plain with a small sign saying "Tiết kiệm", the person is being pulled toward the bright road by invisible forces, rain-wet streets reflecting the neon, 16:9
+
+21. Photorealistic image of a traditional Vietnamese piggy bank shaped like a buffalo cracked open on a table, completely empty inside, next to it a modern smartphone displays 5 active loan balances, the contrast between the traditional saving value (empty) and modern debt reality (full), warm afternoon light on a wooden family table, 16:9
+
+22. Dramatic photorealistic image of a spiral staircase going downward into darkness, each step is labeled with a different debt event: "vay app A", "trả app B bằng app C", "lãi phạt trễ hạn", "vay thêm app D", the spiral gets tighter and darker with each step, a person at the top looking down into the abyss, dramatic overhead lighting, 16:9
+
+23. Photorealistic image of two identical young Vietnamese people side by side: one holds a phone showing payment apps and wears brand new clothes and accessories, the other holds cash and wears simpler clothes, a timeline below shows after 12 months the first person owes money while the second has savings, clean infographic comparison with photorealistic people, 16:9
+
+24. Cinematic photorealistic image of a young person's finger about to press "Confirm Payment" on a BNPL checkout screen, but a transparent X-ray view shows the invisible costs hidden behind the button: fees, compound interest, and penalty clauses stacked behind the friendly interface, surreal but photorealistic, dramatic lighting, 16:9
+
+25. Photorealistic close-up of a contract with extremely small fine print that requires a magnifying glass to read, the magnified section reveals shocking interest rate terms, a young person signs at the bottom without reading, warm overhead light on the document, shallow depth of field on the magnified text, 16:9
+
+26. Dramatic photorealistic image of a young Vietnamese person trying to bail water out of a sinking rowboat using a small cup, but each cup of water bailed out is immediately replaced by more water pouring in from multiple holes in the boat labeled with different debts, ocean surroundings in moody blue, golden life preserver labeled "Tài chính cá nhân" floating nearby but out of reach, 16:9
+
+27. Photorealistic image of a Vietnamese coffee shop where three young friends sit together, each sharing their phone screens showing their total debt amounts, expressions ranging from shock to dark humor to resignation, warm cafe ambient lighting, intimate group portrait showing solidarity in shared financial struggle, documentary photography style, 16:9
+
+28. Cinematic photorealistic image of a digital clock countdown timer displayed on a phone: "Hạn trả: 2 ngày 4 giờ 12 phút", below it the amount owed pulses in red, the phone sits on a desk next to the person's monthly salary statement showing barely enough to cover the debt, time pressure and financial pressure combined, warm desk lamp contrasting cold screen, 16:9
+
+29. Photorealistic image of a Vietnamese motorbike with installment payment stickers visible on the registration, parked outside a small rental room where the rider is counting remaining cash for the month, the motorbike represents the most common installment purchase for young Vietnamese, warm evening golden hour light, street-level intimate composition, 16:9
+
+30. Dramatic photorealistic image of a scale balance where one side holds a stack of physical items (phone, laptop, headphones, shoes) and the other side holds a growing mountain of debt receipts that keeps piling higher, the debt side rapidly outweighing the goods side, the scale tipping dramatically, dark dramatic background with spotlight, 16:9
+
+31. Photorealistic image of a hand dropping a coin into a traditional savings jar, but the jar has a crack at the bottom leaking coins into a drainage gutter labeled "lãi suất", "phí ẩn", "trả góp", the person doesn't notice the leak, warm golden light on the coin entering vs cold blue on the coins leaking out, conceptual but photorealistic execution, 16:9
+
+32. Cinematic photorealistic image of a young Vietnamese person walking through a tunnel made of illuminated advertising billboards all promoting "0% lãi suất", "Mua ngay trả sau", "Duyệt trong 5 phút", the tunnel narrows as they walk deeper, the ads becoming more aggressive and closer together, claustrophobic feeling, fluorescent advertising light, 16:9
+
+33. Photorealistic split image: top half shows the glamorous Instagram post of a new purchase with likes and hearts, bottom half shows the reality behind the screen: the same person stressed at a desk surrounded by payment reminders, the filtered vs unfiltered reality of installment purchases, equal space for both halves, 16:9
+
+34. Dramatic photorealistic image of a young person sleeping restlessly in bed, above their head floating in a thought bubble are red numbers cascading like rain: payment amounts, due dates, interest rates, forming a storm cloud of debt anxiety, dark bedroom with blue moonlight, the red number rain as the only warm-colored element, surreal but emotionally realistic, 16:9
+
+35. Photorealistic image of a Vietnamese ATM screen showing "Số dư: 847,000đ" next to a calendar reminder showing "3 khoản trả góp đến hạn ngày 15", the person's hand frozen on the keypad in front of the ATM, the disparity between available cash and upcoming obligations, cold ATM booth lighting, 16:9
+
+36. Cinematic photorealistic image of a newspaper front page headline about youth debt crisis displayed at a Vietnamese newsstand, but all the young people walking past the newsstand are looking at their phones instead of the newspaper, each phone screen showing shopping or loan apps, ironic visual commentary, warm morning commute lighting, 16:9
+
+37. Photorealistic image of a graph showing two lines over 5 years: one line labeled "Thu nhập" slowly climbing upward, another line labeled "Nợ tích lũy" climbing much steeper and faster, the widening gap between the two lines highlighted in red, clean data visualization with photorealistic paper and desk context, warm study lamp lighting, 16:9
+
+38. Dramatic photorealistic image of a phone being held up as a shield by a young Vietnamese person, but the phone screen shows aggressive debt collection messages breaking through like cracks in a shield, the person behind the phone looks frightened, dramatic lighting with the cracking phone as the central element, dark moody atmosphere, 16:9
+
+39. Photorealistic image of a young Vietnamese person at a convenience store late at night choosing between instant noodles and a proper meal, their phone visible showing a loan repayment deduction from their bank account that day, the mundane reality of cutting basic expenses to service debt, cold fluorescent store lighting, documentary intimacy, 16:9
+
+40. Cinematic photorealistic image of five different loan app icons arranged in a circle like a clock face, arrows connecting each app in a cycle: borrow from A to pay B, borrow from B to pay C, showing the circular debt trap visually, each app icon glows a different color but all arrows are red, dark background, clean graphic meets photorealistic phone elements, 16:9
+
+41. Photorealistic image of a classroom of Vietnamese university students, a professor at the front teaching financial literacy, but half the students under their desks are secretly browsing loan apps and shopping apps on their phones, split between the lesson being taught and the lesson being ignored, warm academic setting, subtle humor in the visual irony, 16:9
+
+42. Dramatic photorealistic image of a person standing on a weighing scale, but instead of showing their body weight the scale displays their total debt amount in large red numbers, the person looks down in shock at the number, clean bathroom setting with the scale as the dramatic focal point, cinematic overhead angle, 16:9
+
+43. Photorealistic close-up of a young person's hand holding a new credit card just received in the mail, the card is shiny and pristine, but their other hand holds a crumpled overdue notice from a previous card, the duality of new credit opportunity and existing credit failure in two hands, warm natural light, 16:9
+
+44. Cinematic photorealistic image of a line of young Vietnamese people at a financial company office waiting to apply for debt consolidation loans, the waiting room is sterile and cold with fluorescent lighting, each person holds a folder of documents showing their debt history, expressions of hope mixed with shame, documentary institutional photography, 16:9
+
+45. Photorealistic image of a Vietnamese Tet family dinner scene where the young adult child hides their phone under the table to avoid showing debt collection notifications to parents, the festive warm family scene contrasted with the secret stress visible only on the young person's face and hidden screen, warm red and gold Tet decorations, intimate family portrait, 16:9
+
+46. Dramatic photorealistic image of a 48-hour countdown timer displayed on a sticky note attached to a computer screen, next to an open browser tab showing an item in a shopping cart, representing the 48-hour rule strategy, the simple sticky note as a psychological defense against impulse buying, warm desk workspace lighting, clean and organized composition, 16:9
+
+47. Photorealistic image of a young Vietnamese person physically deleting loan apps from their phone, the deletion animation visible on screen, their expression shows determination and relief simultaneously, sunlight streaming through a window onto their face suggesting a new beginning, warm hopeful lighting, intimate close-up of face and phone, 16:9
+
+48. Cinematic photorealistic image of a handwritten debt repayment plan on a simple notebook, all items listed with checkmarks next to completed payments, a few items remaining, a pen rests on the page suggesting active progress, warm desk lamp light on the notebook, the simplicity and power of confronting debt honestly, intimate overhead shot, 16:9
+
+49. Photorealistic image of a young Vietnamese person walking out of a tunnel of advertising billboards into open daylight, behind them the tunnel of "trả góp" and "vay ngay" signs fades into darkness, ahead of them is an open road with simple scenery: trees, sky, freedom, the transition from commercial bombardment to clarity, dramatic light transition from artificial to natural, 16:9
+
+50. Cinematic photorealistic image of the same young person from prompt 1 now sitting calmly at a simple desk with just a notebook and a cup of coffee, no floating price tags, no red strings, no installment receipts, their phone face-down on the desk, a small savings jar with actual coins visible, warm golden morning light filling the room, sense of peace and financial intentionality, 16:9
