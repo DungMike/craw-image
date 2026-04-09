@@ -157,6 +157,18 @@ router.post("/download", async (req, res) => {
           ext = getExtensionFromUrl(url);
         }
 
+        // Only support png, jpg, jpeg. Convert webp -> png. Skip others.
+        const SUPPORTED_EXTS = [".png", ".jpg", ".jpeg"];
+        if (ext === ".webp") {
+          ext = ".png";
+          console.log(`[DOWNLOAD] Converting webp -> png for ${url}`);
+        }
+        if (!SUPPORTED_EXTS.includes(ext)) {
+          console.warn(`[DOWNLOAD] Skipping unsupported format '${ext}' for ${url}`);
+          downloadResults.push({ url, success: false, error: `Unsupported format: ${ext}` });
+          continue;
+        }
+
         const filename = `${safeKeyword}_${i + 1}${ext}`;
         const filePath = path.join(folderPath, filename);
 
@@ -218,11 +230,7 @@ function getExtensionFromContentType(contentType) {
   const map = {
     "image/jpeg": ".jpg",
     "image/png": ".png",
-    "image/gif": ".gif",
     "image/webp": ".webp",
-    "image/bmp": ".bmp",
-    "image/svg+xml": ".svg",
-    "image/x-icon": ".ico",
   };
   for (const [type, ext] of Object.entries(map)) {
     if (contentType.includes(type)) return ext;
@@ -233,7 +241,7 @@ function getExtensionFromContentType(contentType) {
 function getExtensionFromUrl(url) {
   try {
     const pathname = new URL(url).pathname;
-    const match = pathname.match(/\.(jpg|jpeg|png|gif|webp|bmp|svg|ico)$/i);
+    const match = pathname.match(/\.(jpg|jpeg|png|webp)$/i);
     return match ? `.${match[1].toLowerCase()}` : ".jpg";
   } catch {
     return ".jpg";
